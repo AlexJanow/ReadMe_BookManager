@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "butter-toast": "^3.3.5"
+    "butter-toast": "^3.3.5",
+    "dotenv": "^10.0.0"
   }
 }
